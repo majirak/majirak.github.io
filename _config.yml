@@ -22,11 +22,11 @@ repository               : "majirak/majirak.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Marzieh Ajirak"
+  name             : "Marzieh_Ajirak.jpeg"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Research Fellow"
+  location         : # "Earth"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
 
