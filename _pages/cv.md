@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **PhD, Electrical Engineering**, Stony Brook University, NY — Oct 2023  
+  *Dissertation:* Uncertainty Quantification of Deep Generative Models using Gaussian Processes
+* **MSc, Electrical Engineering**, Isfahan University of Technology — 2016
+* **BSc, Electrical Engineering**, Isfahan University of Technology — 2012
 
 Work experience
 ======
