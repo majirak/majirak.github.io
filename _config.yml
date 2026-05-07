@@ -21,7 +21,7 @@ repository               : "majirak/majirak.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://avatars.githubusercontent.com/u/54690187?v=4"
+  avatar           : "Marzieh_Ajirak.jpeg"
   name             : "Marzieh Ajirak, PhD"
   pronouns         : # example: "she/her"
   bio              : "AI Research Scientist | Probabilistic Machine Learning | Bayesian Deep Learning"
