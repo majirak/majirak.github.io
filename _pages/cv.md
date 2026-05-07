@@ -16,22 +16,12 @@ Education
 * **MSc, Electrical Engineering**, Isfahan University of Technology — 2016
 * **BSc, Electrical Engineering**, Isfahan University of Technology — 2012
 
-Work experience
+Professional experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Postdoctoral Fellow**, Cornell University, Weill Cornell Medicine, NY — Oct 2023–Present  
+  Recipient of the NIH T32 Postdoctoral Fellowship and the Samuel W. Perry III Distinguished Award.
+* **AI Research Associate**, J.P.Morgan Chase & Co., NY — Jun 2022–Sep 2022
+* **Machine Learning Research Assistant**, Stony Brook University, NY — May 2018–Oct 2023
   
 Skills
 ======
