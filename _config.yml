@@ -21,8 +21,8 @@ repository               : "majirak/majirak.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Marzieh_Ajirak.jpeg"
+  avatar           : "https://avatars.githubusercontent.com/u/54690187?v=4"
+  name             : "Marzieh Ajirak, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Research Fellow"
   location         : # "Earth"
