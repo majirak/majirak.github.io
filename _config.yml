@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=N58fyF4AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -217,6 +217,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+    sort_by: date
   portfolio:
     output: true
     permalink: /:collection/:path/
