@@ -13,13 +13,18 @@ Research scientist specializing in probabilistic machine learning, generative mo
 
 ## News
 
-* The Annual Conference on Neural Information Processing Systems (NeurIPS) — San Diego, CA, 2025  
-  European Conference on Signal Processing (EUSIPCO), *co-organizer* — Lyon, France, 2024
-* International Conference on Information Fusion, invited talk — Venice, Italy, 2024
-* ISBA–Fusion 2024 joint workshop — Venice, Italy, 2024
-* IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP) — Costa Rica, 2023
-* Asilomar Conference on Signals, Systems, and Computers, *invited talk* — Pacific Grove, CA, 2023
-* IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) — 2022 and 2023
-* Bellairs Workshop on Machine Learning and Statistical Signal Processing for Data on Graphs — Barbados, 2023
-* SIAM Conference on Mathematics of Data Science (MDS22) — San Diego, CA, 2022
-* International Conference on Machine Learning (ICML), *selected as Top 10% reviewer* — Baltimore, MD, 2022
+<div style="font-size: 0.92rem; line-height: 1.45;">
+<ul>
+  <li><strong>2025</strong> — Neural Information Processing Systems (NeurIPS), San Diego, CA.</li>
+  <li><strong>2024</strong> — European Signal Processing Conference (EUSIPCO), Co-organizer, Lyon, France.</li>
+  <li><strong>2024</strong> — International Conference on Information Fusion, Invited Talk, Venice, Italy.</li>
+  <li><strong>2024</strong> — ISBA–Fusion Joint Workshop, Venice, Italy.</li>
+  <li><strong>2023</strong> — IEEE Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP), Costa Rica.</li>
+  <li><strong>2023</strong> — Asilomar Conference on Signals, Systems, and Computers, Invited Talk, Pacific Grove, CA.</li>
+  <li><strong>2023</strong> — IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).</li>
+  <li><strong>2023</strong> — Bellairs Workshop on Machine Learning and Statistical Signal Processing for Data on Graphs, Barbados.</li>
+  <li><strong>2022</strong> — SIAM Conference on Mathematics of Data Science (MDS22), San Diego, CA.</li>
+  <li><strong>2022</strong> — International Conference on Machine Learning (ICML), selected as Top 10% Reviewer, Baltimore, MD.</li>
+  <li><strong>2022</strong> — IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).</li>
+</ul>
+</div>
