@@ -29,7 +29,7 @@ Selected paper:
 
 ### Discrete Representation Learning for Time Series
 
-<img src="/images/home/eusipco-2024.png" alt="Discrete representation learning generative model (EUSIPCO 2024)" width="420">
+<img src="/images/home/eusipco-2024-generative-model.png" alt="Discrete representation learning generative model (EUSIPCO 2024)" width="420">
 
 Generative modeling of multivariate time series with discrete latent structure and a plate-structured graphical model for scalable representation learning.
 

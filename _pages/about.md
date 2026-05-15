@@ -88,7 +88,7 @@ Research scientist specializing in probabilistic machine learning, generative mo
 <div class="feature__wrapper">
   <div class="feature__item feature__item--right">
     <div class="archive__item-teaser">
-      <a href="/publication/2024-discrete-representation-eusipco"><img src="/images/home/eusipco-2024.png" alt="Discrete representation learning (EUSIPCO 2024)"></a>
+      <a href="/publication/2024-discrete-representation-eusipco"><img src="/images/home/eusipco-2024-generative-model.png" alt="Discrete representation learning (EUSIPCO 2024)"></a>
     </div>
     <div class="archive__item-body">
       <h2>Discrete representation learning for time series</h2>
