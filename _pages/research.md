@@ -20,7 +20,10 @@ Selected papers:
 
 ### Multimodal and Multitask Learning
 
-<img src="/images/home/neurips-2025.png" alt="Learning to Route (NeurIPS 2025)" width="480">
+<p>
+  <img src="/images/home/neurips-2025.png" alt="Learning to Route (NeurIPS 2025)" width="420" style="margin-right: 1rem; vertical-align: top;">
+  <img src="/images/home/eusipco-2024.png" alt="Discrete representation learning generative model (EUSIPCO 2024)" width="320" style="vertical-align: top;">
+</p>
 
 Adaptive routing and representation-learning approaches target multimodal and multitask settings in which each sample can require distinct computational paths and inductive biases.
 
