@@ -34,12 +34,6 @@ Research scientist specializing in probabilistic machine learning, generative mo
 
 ## Research highlights
 
-<!--
-  Thumbnails: save figures as JPG or PNG under images/home/ using the names below,
-  then change each <img src="..."> to match (or keep one shared image).
-  Suggested size: roughly 900×600 or wider landscape; they scale down in the sidebar layout.
--->
-
 <div class="home-research">
 
 <div class="feature__wrapper">
@@ -49,13 +43,10 @@ Research scientist specializing in probabilistic machine learning, generative mo
     </div>
     <div class="archive__item-body">
       <h2>Multimodal &amp; multitask learning</h2>
-      <p>Adaptive routing and representation learning when data combine multiple modalities and tasks, with per-sample structure in the model.</p>
-      <p class="home-ref"><strong>Representative work:</strong>
-        <a href="/publication/2025-learning-route-neurips">NeurIPS 2025</a> ·
-        <a href="/publication/2024-discrete-representation-eusipco">EUSIPCO 2024</a> ·
-        <a href="/publication/2024-filtering-high-dimensional-icif">ICIF 2024</a>
+      <p>Per-sample adaptive routing for multimodal multitask prediction: each instance can follow a distinct computational path across modalities and tasks.</p>
+      <p class="home-ref"><strong>Publication:</strong>
+        <a href="/publication/2025-learning-route-neurips">Learning to Route (NeurIPS 2025)</a>
       </p>
-      <p class="home-ref"><a href="/research/">Research page →</a></p>
     </div>
   </div>
 </div>
@@ -63,7 +54,37 @@ Research scientist specializing in probabilistic machine learning, generative mo
 <div class="feature__wrapper">
   <div class="feature__item feature__item--right">
     <div class="archive__item-teaser">
-      <a href="/research/"><img src="/images/Marzieh_Ajirak.jpeg" alt="Probabilistic modeling — replace with images/home/probabilistic-uncertainty.jpg"></a>
+      <a href="/publication/2024-discrete-representation-eusipco"><img src="/images/home/eusipco-2024.png" alt="Discrete representation learning (EUSIPCO 2024)"></a>
+    </div>
+    <div class="archive__item-body">
+      <h2>Discrete representation learning for time series</h2>
+      <p>Generative modeling of multivariate time series with discrete latent structure and a plate-structured graphical model for scalable representation learning.</p>
+      <p class="home-ref"><strong>Publication:</strong>
+        <a href="/publication/2024-discrete-representation-eusipco">Discrete Representation Learning for Multivariate Time Series (EUSIPCO 2024)</a>
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="feature__wrapper">
+  <div class="feature__item feature__item--left">
+    <div class="archive__item-teaser">
+      <a href="/publication/2024-filtering-high-dimensional-icif"><img src="/images/Marzieh_Ajirak.jpeg" alt="High-dimensional filtering for sequential classification (ICIF 2024)"></a>
+    </div>
+    <div class="archive__item-body">
+      <h2>High-dimensional filtering for sequential classification</h2>
+      <p>Filtering methods for high-dimensional data streams applied to sequential classification, with emphasis on tractable inference in dynamic settings.</p>
+      <p class="home-ref"><strong>Publication:</strong>
+        <a href="/publication/2024-filtering-high-dimensional-icif">Filtering of High-Dimensional Data for Sequential Classification (ICIF 2024)</a>
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="feature__wrapper">
+  <div class="feature__item feature__item--right">
+    <div class="archive__item-teaser">
+      <a href="/research/"><img src="/images/Marzieh_Ajirak.jpeg" alt="Probabilistic modeling"></a>
     </div>
     <div class="archive__item-body">
       <h2>Probabilistic modeling &amp; uncertainty</h2>
@@ -81,7 +102,7 @@ Research scientist specializing in probabilistic machine learning, generative mo
 <div class="feature__wrapper">
   <div class="feature__item feature__item--left">
     <div class="archive__item-teaser">
-      <a href="/research/"><img src="/images/Marzieh_Ajirak.jpeg" alt="Time series and applications — replace with images/home/timeseries-health.jpg"></a>
+      <a href="/research/"><img src="/images/Marzieh_Ajirak.jpeg" alt="Time series and applications"></a>
     </div>
     <div class="archive__item-body">
       <h2>Time series, graphs &amp; applications</h2>

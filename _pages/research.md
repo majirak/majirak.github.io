@@ -20,16 +20,27 @@ Selected papers:
 
 ### Multimodal and Multitask Learning
 
-<p>
-  <img src="/images/home/neurips-2025.png" alt="Learning to Route (NeurIPS 2025)" width="420" style="margin-right: 1rem; vertical-align: top;">
-  <img src="/images/home/eusipco-2024.png" alt="Discrete representation learning generative model (EUSIPCO 2024)" width="320" style="vertical-align: top;">
-</p>
+<img src="/images/home/neurips-2025.png" alt="Learning to Route (NeurIPS 2025)" width="480">
 
-Adaptive routing and representation-learning approaches target multimodal and multitask settings in which each sample can require distinct computational paths and inductive biases.
+Per-sample adaptive routing for multimodal multitask prediction: each instance can follow a distinct computational path across modalities and tasks.
 
-Selected papers:
+Selected paper:
 - [Learning to Route: Per-Sample Adaptive Routing for Multimodal Multitask Prediction (NeurIPS, 2025)](/publication/2025-learning-route-neurips)
+
+### Discrete Representation Learning for Time Series
+
+<img src="/images/home/eusipco-2024.png" alt="Discrete representation learning generative model (EUSIPCO 2024)" width="420">
+
+Generative modeling of multivariate time series with discrete latent structure and a plate-structured graphical model for scalable representation learning.
+
+Selected paper:
 - [Discrete Representation Learning for Multivariate Time Series (EUSIPCO, 2024)](/publication/2024-discrete-representation-eusipco)
+
+### High-Dimensional Filtering for Sequential Classification
+
+Filtering methods for high-dimensional data streams applied to sequential classification, with emphasis on tractable inference in dynamic settings.
+
+Selected paper:
 - [Filtering of High-Dimensional Data for Sequential Classification (ICIF, 2024)](/publication/2024-filtering-high-dimensional-icif)
 
 ### Time-Series, Graph, and Healthcare Applications
