@@ -60,6 +60,15 @@ redirect_from:
     border-radius: 6px;
     box-shadow: 0 2px 12px rgba(0,0,0,0.08);
   }
+  .home-research .feature__wrapper--eusipco .archive__item-teaser {
+    flex: 0 1 auto !important;
+    max-width: 260px !important;
+    min-width: 0 !important;
+  }
+  .home-research .feature__wrapper--eusipco .archive__item-teaser img {
+    max-width: 260px;
+    width: 100%;
+  }
 </style>
 
 ## Research profile
@@ -85,7 +94,7 @@ Research scientist specializing in probabilistic machine learning, generative mo
   </div>
 </div>
 
-<div class="feature__wrapper">
+<div class="feature__wrapper feature__wrapper--eusipco">
   <div class="feature__item feature__item--right">
     <div class="archive__item-teaser">
       <a href="/publication/2024-discrete-representation-eusipco"><img src="/images/home/eusipco-2024-generative-model.png" alt="Discrete representation learning (EUSIPCO 2024)"></a>
