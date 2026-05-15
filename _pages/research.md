@@ -35,6 +35,14 @@ author_profile: true
     max-width: 100%;
   }
   @media (min-width: 768px) {
+    /* Image left, text right */
+    .research-highlights .feature__item--left:not(.feature__item--text-only) {
+      flex-direction: row;
+    }
+    /* Image right, text left (reverse DOM order: teaser is first in HTML) */
+    .research-highlights .feature__item--right:not(.feature__item--text-only) {
+      flex-direction: row-reverse;
+    }
     .research-highlights .feature__item--left .archive__item-teaser,
     .research-highlights .feature__item--right .archive__item-teaser {
       flex: 0 1 48%;
@@ -48,11 +56,11 @@ author_profile: true
       float: none !important;
       width: auto !important;
       margin: 0 !important;
+      text-align: left;
     }
     .research-highlights .feature__item--text-only .archive__item-body {
       flex: 1 1 100%;
       max-width: 100%;
-      text-align: left;
     }
   }
   .research-highlights .archive__item-teaser img {
@@ -60,14 +68,6 @@ author_profile: true
     height: auto;
     border-radius: 6px;
     box-shadow: 0 2px 12px rgba(0,0,0,0.08);
-  }
-  .research-highlights .feature__wrapper--eusipco .archive__item-teaser {
-    flex: 0 1 auto !important;
-    max-width: 280px !important;
-    min-width: 0 !important;
-  }
-  .research-highlights .feature__wrapper--eusipco .archive__item-teaser img {
-    max-width: 280px;
   }
 </style>
 
