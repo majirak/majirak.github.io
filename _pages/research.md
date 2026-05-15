@@ -9,7 +9,6 @@ author_profile: true
 
 ### Probabilistic ML and Uncertainty Quantification
 
-<img src="/images/Marzieh_Ajirak.jpeg" alt="Probabilistic machine learning thumbnail" width="220">
 
 The probabilistic machine learning thread emphasizes uncertainty quantification in deep and sequential models, scalable inference, and reliable prediction under distribution shift.
 
@@ -45,7 +44,6 @@ Selected paper:
 
 ### Time-Series, Graph, and Healthcare Applications
 
-<img src="/images/Marzieh_Ajirak.jpeg" alt="Time-series and healthcare ML thumbnail" width="220">
 
 Bayesian and probabilistic models address multivariate time-series and graph-structured data in applied settings, including healthcare and sensor-driven decision systems.
 
