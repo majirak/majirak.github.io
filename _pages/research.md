@@ -69,6 +69,14 @@ author_profile: true
     border-radius: 6px;
     box-shadow: 0 2px 12px rgba(0,0,0,0.08);
   }
+  .research-highlights .feature__wrapper--eusipco .archive__item-teaser {
+    flex: 0 0 auto !important;
+    max-width: 220px !important;
+    min-width: 0 !important;
+  }
+  .research-highlights .feature__wrapper--eusipco .archive__item-teaser img {
+    max-width: 220px;
+  }
 </style>
 
 <div class="research-highlights">
