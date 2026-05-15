@@ -45,7 +45,7 @@ Research scientist specializing in probabilistic machine learning, generative mo
 <div class="feature__wrapper">
   <div class="feature__item feature__item--left">
     <div class="archive__item-teaser">
-      <a href="/research/"><img src="/images/Marzieh_Ajirak.jpeg" alt="Multimodal and multitask learning — replace with images/home/multimodal-routing.jpg"></a>
+      <a href="/publication/2025-learning-route-neurips"><img src="/images/home/neurips-2025.png" alt="Learning to Route (NeurIPS 2025)"></a>
     </div>
     <div class="archive__item-body">
       <h2>Multimodal &amp; multitask learning</h2>
